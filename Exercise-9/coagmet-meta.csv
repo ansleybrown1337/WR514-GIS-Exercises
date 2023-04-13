@@ -1,0 +1,142 @@
+﻿Id,Station name,Location,Latitude,Longitude,Elev. (ft),First obs,Last obs,Irrigation type,Owner
+AKR02,Akron,USDA-ARS-GPRC,40.1548,-103.142,4537,33786,Current,Dry land,CoAgMet
+ALT01,Ault,1 mi SE Ault,40.569,-104.72,4910,33680,Current,Fully irrigated,CoAgMet
+AVN01,Avondale,1 mi SE Avondale,38.2056,-104.3294,4630,33759,Current,Fully irrigated,CoAgMet
+BLA01,Blanca,8 mi SW Blanca,37.3905,-105.557,7755,35485,Current,Dry land,CoAgMet
+BNV01,Buena Vista,CDW Area SW of Buena Vista,38.8315,-106.129,7900,40463,Current,Partial irrigation,CoAgMet
+BRG01,Briggsdale,3 mi S Briggsdale,40.5947,-104.319,4858,37468,Current,Dry land,CoAgMet
+BRK01,Bedrock,1 mile NE of Bedrock,38.3279,-108.855,4973,41585,44692,Dry land,CoAgMet
+BRL01,Burlington North,18 mi NNE Burlington,39.4998,-102.074,3900,33731,40910,Partial irrigation,CoAgMet
+BRL02,Burlington South,6 mi SE Burlington,39.2651,-102.109,4170,33605,Current,Dry land,CoAgMet
+BRL03,Burlington 3,4 mi NE of Burlington,39.3374,-102.196,4068,39528,Current,Fully irrigated,CoAgMet
+CBL01,Carbondale,Carbondale,39.3623,-107.208,6293,42132,Current,Fully irrigated,CoAgMet
+CBN01,Collbran,3 mi SW of Collbran,39.1993,-107.9899,6555,43189,Current,Fully irrigated,CoAgMet
+CCR01,Cherry Creek Res,2 miles south of Cherry Creek Res,39.6059,-104.8339,5632,43671,Current,Dry land,CoAgMet
+CDG01,Cedaredge,Cedaredge,38.9142,-107.932,6404,38766,42130,Fully irrigated,CoAgMet
+CHT01,Chatfield at South Platte Res,1.2 mi north of Chatfield Res,39.5741,-105.0538,5414,43803,Current,Dry land,CoAgMet
+CKP01,Cherokee Park,1 mile west of US 287 on Road 80C,40.8263,-105.267,5956,41845,Current,Dry land,CoAgMet
+CLK01,Clark,1 mile WSW of Clark,40.7043,-106.9341,7221,43215,Current,Fully irrigated,CoAgMet
+CNN01,Canon City,East of Canon City,38.4425,-105.1764,5344,40543,Current,Partial irrigation,CoAgMet
+COW01,Cowdrey,9 miles north of Walden,40.8659,-106.336,7895,39974,Current,Fully irrigated,CoAgMet
+CTR01,Center,CSU San Luis Valley Expt Sta,37.7067,-106.144,7702,34250,Current,Partial irrigation,CoAgMet
+CTR02,Center #2,Coors Research Farm,37.8288,-106.038,7608,37896,44833,Partial irrigation,CoAgMet
+CTZ01,Cortez,9 mi SW Cortez,37.2246,-108.6725,6015,33605,Current,Fully irrigated,CoAgMet
+CYA01,Canyon of the Ancients,Canyon of the Ancients,37.5009,-108.8155,6680,44596,Current,Fully irrigated,CoAgMet
+DLT01,Delta,3 mi W Delta,38.7345,-108.1186,5010,34808,44289,Partial irrigation,CoAgMet
+DRG01,Durango,11 mi S of Durango,37.1125,-107.8806,6203,43250,Current,Fully irrigated,CoAgMet
+DVC01,Dove Creek,4 mi NW Dove Creek,37.7265,-108.954,6595,33905,Current,Dry land,CoAgMet
+EAC01,Eastern Adams County (landfill),10 mi W Last Chance,39.7857,-103.798,4907,36724,44865,Dry land,CoAgMet
+EGL01,Eagle,2 mi SE of Eagle,39.6308,-106.7815,6894,43788,Current,Fully irrigated,CoAgMet
+EKT01,Eckert,"0.5 miles west of Eckert, CO",38.8398,-107.973,5522,42131,Current,Fully irrigated,CoAgMet
+FCC01,Christman Field,Christman air field,40.5917,-105.1418,5148,35689,Current,Dry land,CoAgMet
+FCL01,Fort Collins,CSU Campus,40.5762,-105.0857,4997,35096,Current,Fully irrigated,CoAgMet
+FRT01,CSU Fruita Expt,2 mi ENE of Fruita,39.1667,-108.75,4500,39448,39812,,CoAgMet
+FRT02,CSU Fruita Expt Station,2 mi ENE Fruita,39.1803,-108.6993,4519,33771,43835,Partial irrigation,CoAgMet
+FRT03,CSU Fruita Exp Station,2 mi ENE Fruita,39.183,-108.6968,4605,43733,Current,Partial irrigation,CoAgMet
+FTC01,Fort Collins AERC,Fort Collins AERC,40.5947,-105.137,5120,33635,Current,Partial irrigation,CoAgMet
+FTC03,CSU - ARDEC,6 mi NE Fort Collins,40.6525,-105,5110,33732,Current,Partial irrigation,CoAgMet
+FTL01,Fort Lupton,6 mi SSW Fort Lupton,40.0011,-104.849,5055,33680,Current,Partial irrigation,CoAgMet
+FTM01,Fort Morgan,8 mi W Fort Morgan,40.2585,-103.954,4320,34810,40274,Partial irrigation,CoAgMet
+FWL01,Fowler,Fowler Golf Course,38.1351,-104.032,4335,38428,Current,Fully irrigated,CoAgMet
+GBY01,Granby,1 mile N of Granby,40.1047,-105.9433,7911,43213,Current,Fully irrigated,CoAgMet
+GJC01,Grand Junction,3 mi NW Grand Junction,39.1752,-108.632,4869,34243,39943,Dry land,CoAgMet
+GLY03,Greeley,2.5 mi NE Greeley,40.4394,-104.647,4680,33667,40344,Partial irrigation,CoAgMet
+GLY04,Greeley 4,1.5 mi N of Greeley Airport,40.4487,-104.638,4683,39604,44965,Fully irrigated,CoAgMet
+GUN01,Gunnison,5 miles North of Gunnison,38.6135,-106.901,7894,42060,Current,Fully irrigated,CoAgMet
+GYP01,Gypsum,1 mi S Gypsum,39.6344,-106.9469,6470,43019,Current,Partial irrigation,CoAgMet
+HEB01,Hebron,13 miles SW of Walden,40.5455,-106.388,8170,39974,Current,Fully irrigated,CoAgMet
+HLY01,Holly,5 mi NW Holly,38.07,-102.09,3636,37161,Current,Partial irrigation,CoAgMet
+HLY02,Holly #2,8.5 mi NW Holly,38.1361,-102.241,3570,38493,Current,Fully irrigated,CoAgMet
+HNE01,Hoehne,NE Trinidad,37.2893,-104.313,5625,36570,Current,Partial irrigation,CoAgMet
+HOT01,CSU Rogers Mesa Expt Sta,4 mi W Hotchkiss,38.7917,-107.792,5547,35936,43733,Partial irrigation,CoAgMet
+HOT02,CSU Rogers Mesa Research Sta,CSU Rogers Mesa Research Station,38.7985,-107.7882,5631,43543,Current,Fully irrigated,CoAgMet
+HRT01,Heartstrong,12 mi SSE Yuma,39.9552,-102.625,4129,38502,39506,Partial irrigation,CoAgMet
+HXT01,Haxtun,2.5 mi NW Haxtun,40.6722,-102.647,4040,35516,Current,Partial irrigation,CoAgMet
+HYD01,Hayden,4 mi E of Hayden,40.499,-107.181,6454,40863,Current,Fully irrigated,CoAgMet
+HYK02,Holyoke,12 mi SE Holyoke,40.4909,-102.089,3735,33605,Current,Dry land,CoAgMet
+IDL01,Idalia,2 mi N Idalia,39.7312,-102.302,3975,33605,Current,Fully irrigated,CoAgMet
+IGN01,Ignacio,"4 mi NW of Ignacio, CO",37.1383,-107.7072,6617,43210,Current,Fully irrigated,CoAgMet
+ILF01,Iliff,1.5 mi NE of Iliff,40.7678,-103.045,3822,39480,Current,Dry land,CoAgMet
+JFN01,Jefferson,"1 mile SW of Jefferson,CO",39.3509,-105.8153,9460,40909,Current,Dry land,CoAgMet
+KLN01,Kline,"2 mi SW of Kline, CO",37.1261,-108.1465,6755,43202,Current,Partial irrigation,CoAgMet
+KRK01,Kirk,3 mi W Joes,39.6554,-102.621,4213,35198,Current,Partial irrigation,CoAgMet
+KRM01,Kremmling,7 miles NE of Kremmling,40.1154,-106.2829,7534,43220,Current,Fully irrigated,CoAgMet
+KSY01,Kersey 1,2 mi SE Kersey,40.3768,-104.532,4625,33725,Current,Partial irrigation,CoAgMet
+KSY02,Kersey 2,4 mi SE Kersey,40.3629,-104.478,4563,42005,Current,Partial irrigation,CoAgMet
+LAM01,Lamar #1,4.5 Mi S Lamar,37.9807,-102.596,3776,35280,Current,Dry land,CoAgMet
+LAM02,Lamar #2,7 mi NNE Lamar,38.1734,-102.559,3736,37468,38517,Dry land,CoAgMet
+LAM03,Lamar #3,10 mi SW Lamar,37.9798,-102.713,3918,37468,Current,Dry land,CoAgMet
+LAM04,Lamar #4,4.5 mi NNE Lamar,38.1508,-102.5986,3703,38483,Current,Fully irrigated,CoAgMet
+LAR01,Larand,8 miles south of Walden,40.6126,-106.2997,8252,39974,Current,Fully irrigated,CoAgMet
+LBN01,Lebanon,Lebanon,37.4481,-108.5504,6800,44596,Current,Fully irrigated,CoAgMet
+LCN01,Lucerne,1/4 mi SW Lucerne,40.4756,-104.707,4750,33667,Current,Partial irrigation,CoAgMet
+LJR01,LaJara,2 mi S LaJara,37.2443,-105.9722,7595,38491,Current,Partial irrigation,CoAgMet
+LJT01,LaJunta,11 mi NE LaJunta,38.0778,-103.366,3960,38428,Current,Fully irrigated,CoAgMet
+LMS02,Las Animas 2,4 miles SW Las Animas,38.009,-103.2438,3949,43900,Current,Dry land,CoAgMet
+LSL01,La Salle,4 mi SE of La Salle,40.3349,-104.63,4676,40949,Current,Partial irrigation,CoAgMet
+MCL01,McClave (was Las Animas #1),1 mi NW McClave,38.1478,-102.859,3895,38428,Current,Fully irrigated,CoAgMet
+MKR01,Meeker,2 miles S of Meeker,40.0083,-107.9078,6342,43216,44026,Fully irrigated,CoAgMet
+MNC01,Mancos,3.5 Mi SW Mancos,37.3212,-108.339,6730,40480,Current,Fully irrigated,CoAgMet
+MTR01,Montrose,3 miles NW of Montrose,38.547,-107.9143,5651,42059,Current,Fully irrigated,CoAgMet
+NWD01,Norwood,2 mi South of Norwood,38.151,-108.2835,7000,43265,Current,Partial irrigation,CoAgMet
+ORM01,Orchard Mesa,Orchard Mesa,39.0424,-108.4664,4700,38719,43732,Partial irrigation,CoAgMet
+ORM02,CSU Orchard Mesa Research Sta,CSU Orchard Mesa Research Station,39.0441,-108.4673,4700,43733,Current,Partial irrigation,CoAgMet
+OTH01,Olathe,3 mi NE Olathe,38.6351,-107.9636,5324,33813,Current,Partial irrigation,CoAgMet
+OTH02,Olathe 2,4 mi W Olathe,38.6135,-108.069,5450,40402,42734,Fully irrigated,CoAgMet
+PAI01,Paoli,RD U & 59,40.4248,-102.475,3875,37160,Current,Dry land,CoAgMet
+PAN01,Paonia,Paonia,38.8656,-107.599,5643,"Jan 1, 0001","Jan 1, 0001",,CoAgMet
+PBL01,Pueblo (defunct),Pueblo,38.2317,-104.467,4710,34185,34840,,CoAgMet
+PBW01,Pueblo West,Hudson Ranch Rocket Launch Site,38.1515,-104.8042,5448,44960,Current,Dry land,CoAgMet
+PGS01,Pagosa Springs,2 mi from Pagosa Springs,37.277,-106.9826,7181,43210,Current,Fully irrigated,CoAgMet
+PKH01,Peckham,3 mi ENE Peckham,40.3125,-104.727,4701,33680,Current,Partial irrigation,CoAgMet
+PKN01,Punkin Center,5.6 mi NNE Punkin Center,38.9313,-103.6846,5341,44651,Current,Dry land,CoAgMet
+PKR01,Parker,E470 and Chambers,39.5505,-104.811,5813,42075,43670,Dry land,CoAgMet
+PNR01,Penrose,near L and 13th Sts.,38.4119,-104.998,5331,40464,Current,Fully irrigated,CoAgMet
+PTV01,Platteville,1 mi NW Platteville,40.2278,-104.835,4700,"Jan 1, 0001","Jan 1, 0001",Fully irrigated,CoAgMet
+RFD01,CSU Expt Stn Rocky Ford,2.5 mi SE Rocky Ford,38.0385,-103.695,4180,33759,Current,Fully irrigated,CoAgMet
+RFD02,CSU Expt Stn Rocky Ford NRCS,Moved to HLY01,38.0385,-103.695,4180,36162,38532,Fully irrigated,CoAgMet
+SAN01,San Acacio,2 mi N Mesita,37.1417,-105.611,7753,36750,Current,Dry land,CoAgMet
+SBT01,Seibert,Livingston CRP land south of Seibert,39.1187,-102.925,4852,42096,Current,Dry land,CoAgMet
+SCM01,Sand Creek Massacre HS,7.5 mi NNE of Chivington,38.5439,-102.503,3963,39653,Current,Dry land,CoAgMet
+SLD01,Salida,Near Salida,38.5713,-106.0427,7227,40387,Current,Fully irrigated,CoAgMet
+SLT01,Silt,Silt Mesa,39.5667,-107.6934,5620,42132,Current,Fully irrigated,CoAgMet
+STG01,Sterling,Sterling,40.4632,-103.0277,4472,38800,44305,Dry land,CoAgMet
+STN01,Stratton,Stratton,39.2987,-102.522,4321,38809,Current,Dry land,CoAgMet
+STT01,Stonington,Stonington,37.1613,-102.122,3841,38809,39455,Dry land,CoAgMet
+TWC01,Towaoc,Ute Mtn Ute Farm,37.1891,-108.9351,5319,35976,Current,Partial irrigation,CoAgMet
+UWR70,United Water,West of Wiggins,40.3806,-104.35,4682,40605,42046,Dry land,CoAgMet
+VLD01,Vineland,13 mi SE Pueblo,38.2235,-104.461,4420,34185,40462,Fully irrigated,CoAgMet
+WAV01,Waverly,NW of Douglas Reservoir,40.7102,-105.103,5229,40956,41017,Dry land,CoAgMet
+WCF01,Westcliffe,2 mi NW Westcliffe,38.1504,-105.4988,7734,40441,Current,Fully irrigated,CoAgMet
+WFD01,Wolford Mtn Reservoir,5 mi NNW Kremmling,40.1387,-106.415,7520,38321,Current,Dry land,CoAgMet
+WGG01,Wiggins 06,NNE of Wiggins,40.3333,-104.036,4447,35521,38291,Partial irrigation,CoAgMet
+WGG02,Wiggins 39,ENE of Wiggins,40.2998,-103.952,4421,35521,38564,Partial irrigation,CoAgMet
+WLS01,Walsh,"Plainsman Research Center in Walsh, CO",37.383,-102.294,3974,41010,Current,Dry land,CoAgMet
+WLT01,Wellington,I25 & 58.5 Rd,40.6762,-104.997,5144,38572,40344,Fully irrigated,CoAgMet
+WRY01,Wray,10 mi N Wray,40.1924,-102.203,3681,35194,41447,Fully irrigated,CoAgMet
+WRY02,Wray 2,"Lenz Farm north of Wray, CO",40.2187,-102.265,3736,42095,Current,Fully irrigated,CoAgMet
+YJK01,Yellow Jacket,2.5 mi NW Yellow Jacket,37.5428,-108.7398,6900,33605,Current,Fully irrigated,CoAgMet
+YUC01,Yucca House,Mesa Verde Natl Monument,37.2478,-108.687,5975,37491,Current,Dry land,CoAgMet
+YUM01,Yuma,6 mi E of Yuma,40.1035,-102.606,4000,34108,40179,,CoAgMet
+YUM02,Yuma,2 mi N Yuma,40.1504,-102.724,4104,35193,Current,Fully irrigated,CoAgMet
+BLD01,Boulder South West,Fairview High School Boulder,39.974,-105.246,5515,37438,Current,Fully irrigated,Northern Water
+BLD02,Boulder North West,Foothills Park Boulder,40.0549,-105.289,5561,36707,Current,Fully irrigated,Northern Water
+BRU01,Brush,1 mile southwest of CR R & CR 27,40.2725,-103.353,4215,34335,Current,Fully irrigated,Northern Water
+BTD01,Berthoud,Northern Water Headquarters Berthoud,40.3222,-105.082,5069,37987,Current,Fully irrigated,Northern Water
+CRK01,Crook,3 miles west of Crook,40.8439,-102.512,3735,34335,Current,Fully irrigated,Northern Water
+EAT01,Eaton,3 miles northwest of Eaton,40.5556,-104.453,4900,34335,Current,Fully irrigated,Northern Water
+FTC02,Fort Collins East,1 mile southwest of the Budweiser plant,40.6069,-105.0226,5005,34335,Current,Fully irrigated,Northern Water
+FTC04,Fort Collins Central,Rolland Moore Park Fort Collins,40.5587,-105.105,5033,37363,Current,Fully irrigated,Northern Water
+FTL02,Fort Lupton,Coyote Creek Golf Course,40.0844,-104.791,4992,38718,Current,Fully irrigated,Northern Water
+FTM02,Fort Morgan,Quail Dunes Golf Course,40.2801,-103.82,4314,39448,Current,Fully irrigated,Northern Water
+GIL01,Gilcrest,2 miles west of Gilcrest,40.2809,-104.8214,4755,34335,Current,Fully irrigated,Northern Water
+GLY05,Greeley West,Greeley Youth Sports Complex,40.4116,-104.786,4815,35550,Current,Fully irrigated,Northern Water
+JCN01,Johnsons Corner,3 miles southwest of Johnson's Corner,40.3653,-105.0188,4965,34335,Current,Fully irrigated,Northern Water
+LMT01,Longmont South,1 mile northwest of HWY 287 and Niwot Rd,40.0733,-105.054,5085,34335,Current,Fully irrigated,Northern Water
+LMT02,Longmont West,Garden Acres Park,40.1925,-105.123,5053,35642,Current,Fully irrigated,Northern Water
+LOV01,Loveland,The Ole Golf Course of Loveland,40.4236,-105.1117,5040,33970,Current,Fully irrigated,Northern Water
+OVD01,Ovid,1/2 mile north of Revere Elementary School,40.97,-102.271,3575,34335,Current,Fully irrigated,Northern Water
+SHM01,Shadow Mountain,Shadow Mountain Reservoir Dam,40.2074,-105.842,8387,40801,Current,Dry land,Northern Water
+STG02,Sterling,1/4 mile northwest of CR 24 & HWY 6,40.5833,-103.142,3950,34335,Current,Fully irrigated,Northern Water
+WGP01,Windy Gap,1 mile northwest of HWY 40 & HWY 34,40.097,-105.972,7858,36411,Current,Dry land,Northern Water
+WIG01,Wiggins,1/4 mile southwest of CR W 5/10 & CR 5,40.3144,-104.033,4485,34052,Current,Fully irrigated,Northern Water
